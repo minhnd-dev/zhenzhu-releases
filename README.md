@@ -29,7 +29,18 @@ Select Chinese text in almost any Mac app and Zhenzhu explains it beside the
 original content. It runs quietly in the menu bar, without a permanent window
 or Dock icon.
 
-https://github.com/user-attachments/assets/e3e106ff-2824-42d0-9109-89c0cbe3d650
+### Select text
+
+Select Chinese text to see pinyin and definitions instantly.
+
+https://github.com/user-attachments/assets/d54cd612-c682-48bd-8c81-20ee040405e0
+
+### Capture from an image
+
+Press <kbd>⌥</kbd><kbd>⇧</kbd><kbd>S</kbd>, then drag around text you cannot
+select normally.
+
+https://github.com/user-attachments/assets/8ab2ecb0-ccf9-447e-94db-6bb767a01819
 
 ### What Zhenzhu can do
 
