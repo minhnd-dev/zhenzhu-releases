@@ -29,9 +29,7 @@ Select Chinese text in almost any Mac app and Zhenzhu explains it beside the
 original content. It runs quietly in the menu bar, without a permanent window
 or Dock icon.
 
-<p align="center">
-  <img src="assets/zhenzhu-panel.png" width="720" alt="Zhenzhu translating a Chinese sentence with pinyin, HSK levels, and word-by-word definitions">
-</p>
+https://github.com/user-attachments/assets/e3e106ff-2824-42d0-9109-89c0cbe3d650
 
 ### What Zhenzhu can do
 
