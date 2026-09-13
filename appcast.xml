@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Zhenzhu</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 13 Sep 2026 15:05:25 +0700</pubDate>
+            <link>https://zhenzhu.app</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Zhenzhu 1.0.0
+
+Candidate built locally from `4b6b0a7a83cf6d786722b5e7227980477d7296a2`.
+
+## Changes
+
+- Merge remote-tracking branch 'origin/main' (4b6b0a7)
+- Complete language-aware lookup and release polish (8e9863c)
+- Add analytics and harden app release workflows (00d4d47)
+- Add privacy-first Sentry crash reporting (432754c)
+- Merge pull request #3 from minhnd-dev/codex/improve-dmg-layout (675e418)
+- Add hover lookup and improve Anki card workflows (a3955fe)
+- Save current onboarding, capture, and documentation work (6e0e4c8)
+- Merge pull request #2 from minhnd-dev/codex/fix-local-release-config (1588886)
+- Fix local release configuration handling (7455acc)
+- Merge pull request #1 from minhnd-dev/codex/folder-cleanup (e380b26)
+- Use fixed Swift runtime in CI (49411d8)
+- Improve CI test diagnostics (b708995)
+- Run CI with Xcode 26.1 (22ce1f2)
+- Support older Translation SDKs (bfbcece)
+- Fix PanelManager actor isolation (6c286c0)
+- Fix AppDelegate actor isolation (1aae1e3)
+- Complete release system and channel isolation (281abe7)
+- Clean up project structure (67d6e5d)
+- Complete dictionary, panel, and release updates (8da3ed8)
+- Improve shortcuts and show them in menu (00dc593)
+
+]]></description>
+            <enclosure url="https://github.com/minhnd-dev/zhenzhu-releases/releases/download/v1.0.0/Zhenzhu-1.0.0.dmg" length="11333338" type="application/octet-stream" sparkle:edSignature="mduC7/kW7CnvHV3oRm6ksnLegb6nRkQj1EWMPLp5CYveCy+UOqapL3hqhVRfANVNzWQFG7QUeiB5N5Q1whMrAg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: ZsrI/5PPyUBpb/vJ3wD6jegRCw4vhRJrSL6V6uqI2I3o0xnqIvqWiW2owTmmzA2AjaR85UefVT9+C0oZ5b2PAg==
+length: 2374
+-->
