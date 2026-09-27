@@ -6,6 +6,55 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Zhenzhu</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Sun, 27 Sep 2026 08:28:26 +0700</pubDate>
+            <link>https://zhenzhu.app</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Zhenzhu 1.1.0
+
+Zhenzhu 1.1 makes sentence mining the heart of the app: turn the Chinese you read and watch into flashcards with the sentence, its meaning, and the moment it came from.
+
+## Sentence mining
+
+- **Mine from anywhere.** Select text in any app, snip a subtitle, or record a short clip from a show. Look up a word and press **Mine** to save the sentence with that word highlighted.
+- **Record a clip** of up to 15 seconds from any app. Zhenzhu reads the subtitles from the clip, and you tick every subtitle line that belongs to the sentence.
+- **Fix or rewrite the sentence** before saving, and revert to the captured text at any time.
+- **See which words are new.** Sentences show how many words you don't know yet; one new word makes the best card.
+- **Faster sentence translation** on macOS 26, usually in well under a second.
+- **Smaller clips.** Saved clips are about a fifth of their old size, so Anki syncs faster.
+
+## A new home
+
+- One window with a sidebar for Home, Dictionary, Flashcards and History.
+- Home shows what's due, what you mined this week, and words you look up often but haven't mined yet.
+- Flashcards shows your decks and your library on one page.
+
+## Anki
+
+- Sending cards is much faster.
+- If Anki can't add a card, Zhenzhu now tells you why, and it re-creates a missing deck automatically.
+- A sentence that is already in Anki is reported instead of silently skipped.
+
+## Free and Pro
+
+- Every new installation starts with **14 days of full Pro**, with no sign-up.
+- After the trial, Free includes unlimited lookups, translation and reviews, plus **30 new cards and 50 OCR reads a month**. The card count is shared by Zhenzhu flashcards and Anki, and a card saved to both counts once. Free Anki cards now keep their audio and screenshot.
+- Pro is still a one-time purchase.
+
+## Fixes
+
+- A clip no longer keeps playing after you close the mining window.
+- Zhenzhu's own windows no longer appear in recordings or in the subtitle text.
+- Mining now credits the app you were watching, not Zhenzhu.
+- English lookups are translated into Chinese instead of repeating the English.
+
+Optional analytics, which stay off unless you opt in, now also count mined cards and trial and upgrade screens. They never include card text. See the privacy notice for the full list.
+]]></description>
+            <enclosure url="https://github.com/minhnd-dev/zhenzhu-releases/releases/download/v1.1.0/Zhenzhu-1.1.0.dmg" length="12527826" type="application/octet-stream" sparkle:edSignature="kL1fX5a41rfisFINfYFkoB7MINK5n1UUOiE6Fi76Camr9sEwRQQp8goBMdQwcQXEWQajPaq9UVX2sEqN622XCA=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Tue, 15 Sep 2026 20:05:15 +0700</pubDate>
             <link>https://zhenzhu.app</link>
@@ -82,6 +131,6 @@ Candidate built locally from `4b6b0a7a83cf6d786722b5e7227980477d7296a2`.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: PsyLDRjBSSNEc8q63DtXydAExMDuQywDKNknYemSZeXPWY3jhTsty/FXAOnidGfrG7t2IYeStJFtrVphQvf+BQ==
-length: 4293
+edSignature: r6O9roECgTkru1AHlSiBEzYE6UfW8dy+ygaWR47I1p989lJX6b58BgtbQau72CKA0EjxJwV7r9doVGiUqCnMCw==
+length: 7326
 -->
