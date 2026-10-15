@@ -6,6 +6,31 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Zhenzhu</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Thu, 15 Oct 2026 07:33:37 +0700</pubDate>
+            <link>https://zhenzhu.app</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Zhenzhu 1.1.1
+
+Zhenzhu 1.1.1 makes pricing simpler: one Pro license, and a free version you can use for as long as you like.
+
+## Free and Pro
+
+- **One Pro license.** Zhenzhu Pro is a one-time purchase that includes every future update and covers 3 Macs. No subscription. Early supporters can get it for less; see [zhenzhu.app](https://zhenzhu.app/#pricing).
+- **Free, forever:** unlimited lookups, translation, speech and reviews, plus **15 new cards and 20 OCR reads a month**. The card count is shared by Zhenzhu flashcards and Anki.
+- **No more trial.** New installations start on Free. If you were in the middle of a trial, you now have this month's full free allowance.
+- **Already bought Pro 1 or Lifetime Updates?** Your license keeps working exactly as before.
+- Every Buy button now opens the pricing page on zhenzhu.app, so you always see the current price.
+
+## Fixes
+
+- Entering a Pro 1 license in a future major version no longer uses up one of its activations.
+]]></description>
+            <enclosure url="https://github.com/minhnd-dev/zhenzhu-releases/releases/download/v1.1.1/Zhenzhu-1.1.1.dmg" length="12758303" type="application/octet-stream" sparkle:edSignature="9Bz6hrQcBy0kdgTFwxxFOO9JjwWuyzDHw2OGn4mxj6Ugubr/ALHQhIr9gwICTEQFiTBFBzkQmQ61uIIvAel4Bw=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Sun, 27 Sep 2026 08:28:26 +0700</pubDate>
             <link>https://zhenzhu.app</link>
@@ -131,6 +156,6 @@ Candidate built locally from `4b6b0a7a83cf6d786722b5e7227980477d7296a2`.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: r6O9roECgTkru1AHlSiBEzYE6UfW8dy+ygaWR47I1p989lJX6b58BgtbQau72CKA0EjxJwV7r9doVGiUqCnMCw==
-length: 7326
+edSignature: h/ypEBgKUHFm0HISh2FSSkGcabJZMQoKt6J6+u+eJNLVmqVUto9wSnTnFLHMyiXYXu/WpfBUBx1hpNI3wUHVDQ==
+length: 9036
 -->
