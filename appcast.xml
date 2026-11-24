@@ -6,6 +6,32 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Zhenzhu</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Tue, 24 Nov 2026 12:48:39 +0700</pubDate>
+            <link>https://zhenzhu.app</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Zhenzhu 1.2.0
+
+Zhenzhu 1.2 adds Japanese as a second study language alongside Chinese, with offline word lookup, deinflection, screen OCR, Hover Lookup, and spaced-repetition flashcards.
+
+## Japanese support
+
+- **Downloadable Japanese dictionary pack.** Turn on Japanese in **Settings → Languages** to download the offline JMdict dictionary (~32 MB). Chinese stays bundled and unchanged unless you enable Japanese.
+- **Conjugation & reading breakdown.** Selecting or hovering over inflected Japanese verbs and adjectives resolves them to their dictionary form with furigana, JLPT levels, and English definitions.
+- **Smart routing across Chinese and Japanese.** Text with kana is automatically read as Japanese; Han-only text uses your primary study language with a quick **中 / 日** switcher in the panel header.
+- **Hover Lookup & Snip OCR for Japanese.** Hover over Japanese text in games, manga, or apps, or snip full sentences for instant translation and word-by-word breakdown.
+- **Flashcards, speech, and Anki.** Review cards by language (All / Chinese / Japanese), speak Japanese with macOS Japanese voices, and export Japanese notes to Anki with a dedicated Reading field.
+
+## Improvements & fixes
+
+- **Hover Lookup indicator.** Turning Hover Lookup on or off now shows a brief confirmation toast and a green dot next to the Zhenzhu menu bar icon while active.
+- **Cleaner offline translation prompts.** When an Apple offline translation language pair isn't downloaded yet, Zhenzhu now shows an inline **Download** button inside the panel instead of opening macOS's system download sheet automatically.
+]]></description>
+            <enclosure url="https://github.com/minhnd-dev/zhenzhu-releases/releases/download/v1.2.0/Zhenzhu-1.2.0.dmg" length="31645815" type="application/octet-stream" sparkle:edSignature="d9JM1f0syMvNUdd8E+ZLIBwensX3B7g/UifA+VLnIGvzTS1jyTams2fYRqxf32GQv1dlFKXqpcHkX59CDqzqCw=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Thu, 15 Oct 2026 07:33:37 +0700</pubDate>
             <link>https://zhenzhu.app</link>
@@ -156,6 +182,6 @@ Candidate built locally from `4b6b0a7a83cf6d786722b5e7227980477d7296a2`.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: h/ypEBgKUHFm0HISh2FSSkGcabJZMQoKt6J6+u+eJNLVmqVUto9wSnTnFLHMyiXYXu/WpfBUBx1hpNI3wUHVDQ==
-length: 9036
+edSignature: ehUtfhdKibSoLLbR33PkpiJYBS+e/s3+TBjvlJYNnRCG8f+XuMK12/hO6yH28DaxN4WhtkRL7nsLDTu8j63PBQ==
+length: 11388
 -->
